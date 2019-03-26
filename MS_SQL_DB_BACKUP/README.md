@@ -12,7 +12,7 @@ Usage
 * edit **ms_sql_DB_list_getting.sql** for DBs list which you need
 * edit **backup_mssql_databases.ps1** for variables which are required
 * run **backup_mssql_databases.ps1** and check that script works correctly
-* if you need check that backup is completed successfully - edit **files_count** for variables which are required and run
+* if you need check that backup is completed successfully - edit **files_count.cmd** for variables which are required and run
 
 Additional information
 -------------
