@@ -3,7 +3,7 @@ Scripts for backup MS SQL databases and check that backup is completed successfu
 
 Description
 ------------
-* **backup_mssql_databases.ps1** creates backup all MS SQL databases which are got from **ms_sql_DB_list_getting.sql** script
+* **backup_mssql_databases.ps1** creates backup for all MS SQL databases which are got from **ms_sql_DB_list_getting.sql** script
 * **ms_sql_DB_list_getting.sql** selects list of all DBs from MS SQL server, you can exclude some DB, please see inside
 * **files_count** checks amount of *.bak files inside backup dir and compares it with list of DBs - if it isn't equal prints error and exit with error code = 5
 
