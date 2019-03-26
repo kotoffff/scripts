@@ -4,7 +4,7 @@ Collection of useful scripts
 Playbooks
 ---------
 
-  * [MS_SQL_DB_BACKUP](https://github.com/kotoffff/scripts/tree/master/scripts/MS_SQL_DB_BACKUP) => scripts for backup MS SQL databases and check that backup is completed successfully 
+  * [MS_SQL_DB_BACKUP](https://github.com/kotoffff/scripts/tree/master/MS_SQL_DB_BACKUP) => scripts for backup MS SQL databases and check that backup is completed successfully 
 
 License
 -------
